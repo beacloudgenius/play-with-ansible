@@ -5,7 +5,7 @@ Clone this repo and cd into it
     
 Get a Digital Ocean droplet working with your `id_rsa.pub` and grab its `ip address`
 
-Edit the `inventory/hosts` file and replace `CHANGETHISPLEASE` with the `ip address` of your droplet
+Edit the `./inventory/hosts` file and replace `CHANGETHISPLEASE` with the `ip address` of your droplet
 
 Run ansible playbook
 
