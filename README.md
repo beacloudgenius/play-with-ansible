@@ -10,3 +10,16 @@ Edit the `./inventory/hosts` file and replace `CHANGETHISPLEASE` with the `ip ad
 Run ansible playbook
 
     ansible-playbook create_cloudgenius_user.yml
+
+
+Reference:
+
+How to define host inventory?
+
+    http://docs.ansible.com/ansible/intro_inventory.html
+    
+Playbook examples:
+
+    https://github.com/ansible/ansible-examples
+
+    
